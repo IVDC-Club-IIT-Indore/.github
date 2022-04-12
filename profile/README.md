@@ -6,5 +6,6 @@ Follow us on -
 - [LinkedIn](https://www.linkedin.com/company/ivdc-iiti/)
 - [Instagram](https://www.instagram.com/ivdc_iiti/)
 - [YouTube](https://www.youtube.com/channel/UCXQNUpm9a4OnnrQAUUNj6fA/about)
+- [Twitter](https://twitter.com/ivdc_club)
 
 
