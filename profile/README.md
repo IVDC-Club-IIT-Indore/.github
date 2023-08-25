@@ -38,9 +38,10 @@ Work with Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 - Autonomy Lead: [Sairaj Loke](https://github.com/SairajLoke)
 - Hardware Lead: [Aditya Guhagarkar](https://github.com/AG10GA)
-- Design      Lead: [Utkarsh Pandey](https://github.com)
+- Design      Lead: [Utkarsh Pandey](https://github.com/IVDC-Club-IIT-Indore)
 
 ## Members
+
 ### Autonomy Team
 
 ### Hardware Team
