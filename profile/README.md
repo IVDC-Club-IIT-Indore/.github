@@ -35,6 +35,7 @@ A group of young Autonomous Vehicle Enthusiasts of IIT Indore. Working with Self
 ## Head and Co-Heads
 - Club Head: [Aditya Guhagarkar](https://github.com/AG10GA) 
 <br>
+
 - Autonomy Lead: [Sairaj Loke](https://github.com/SairajLoke)
 - Hardware Lead: [Aditya Guhagarkar](https://github.com/AG10GA)
 - Design      Lead: [Utkarsh Pandey](https://github.com)
