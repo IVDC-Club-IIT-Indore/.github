@@ -1,8 +1,10 @@
-# Intelligent Vehicle Design and Control
-# (IVDC) Club IIT Indore: 
+# Intelligent Vehicle Design and Control (IVDC) Club IIT Indore: 
+
+## About Us
 
 Welcome to the GitHub profile of the Intelligent Vehicle Design and Control (IVDC) Club, IIT Indore. We are a bunch of autonomous vehicle enthusiasts at IIT Indore.
 All of the code that we write for our vehicles will remain open source, and can be used freely for any non commercial application.
+Work with Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 #
 
 <div id="header" align="center">
@@ -28,9 +30,7 @@ All of the code that we write for our vehicles will remain open source, and can 
   </div>
 <br>
 
-## About Us
 
-A group of young Autonomous Vehicle Enthusiasts of IIT Indore. Working with Self-Driving Cars , AGVs, UAVs, race cars!
 
 ## Head and Co-Heads
 - Club Head: [Aditya Guhagarkar](https://github.com/AG10GA) 
