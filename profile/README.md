@@ -27,7 +27,6 @@ All of the code that we write for our vehicles will remain open source, and can 
   <img src="https://komarev.com/ghpvc/?username=IVDC-Club-IIT-Indore&style=flat-square&color=blue" alt=""/>
   </div>
 <br>
-Welcome to the Github Page of IVDC Club IIT Indore!
 
 ## About Us
 
