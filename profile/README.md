@@ -33,12 +33,12 @@ Our Companions include Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 
 ## Head and Co-Heads
-- Club Head: [Aditya Guhagarkar](https://github.com/AG10GA) 
+- Club Head: [Arjun S Nair](https://github.com/arjun-593) 
 <br>
 
-- Autonomy Lead: [Sairaj Loke](https://github.com/SairajLoke)
-- Hardware Lead: [Aditya Guhagarkar](https://github.com/AG10GA)
-- Design      Lead: [Utkarsh Pandey](https://github.com/IVDC-Club-IIT-Indore)
+- Autonomy Lead: [Arjun S Nair](https://github.com/arjun-593)
+- Hardware Lead: [Giridhar AP](https://github.com/Giri-is-coding)
+- Design      Lead: [Hrishikesh Hiremath](https://github.com/IVDC-Club-IIT-Indore)
 
 ## Members
 
