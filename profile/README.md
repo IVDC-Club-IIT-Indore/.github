@@ -42,11 +42,11 @@ Our Companions include Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 ## Members
 
-### Autonomy Team
+### [Autonomy Team](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/autonomy/members)
 
-### Hardware Team
+### [Hardware Team](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/hardware/members)
 
-### Design Team
+### [Design Team](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/design/members)
 
 
 ## Volunteers
