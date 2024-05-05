@@ -38,7 +38,7 @@ Our Companions include Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 - Autonomy Lead: [Arjun S Nair](https://github.com/arjun-593)
 - Hardware Lead: [Giridhar AP](https://github.com/Giri-is-coding)
-- Design      Lead: [Hrishikesh Hiremath](https://github.com/IVDC-Club-IIT-Indore)
+- Design      Lead: [Hrishikesh Hiremath](https://github.com/Hrishikesh-H)
 
 ## Members
 
