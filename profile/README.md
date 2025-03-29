@@ -33,12 +33,12 @@ Our Companions include Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 
 ## Head and Co-Heads
-- Club Head: [Arjun S Nair](https://github.com/arjun-593) 
+- Club Head: [Nambiar Anand Sreenivasan](https://github.com/arjun-593) 
 <br>
 
-- Autonomy Lead: [Arjun S Nair](https://github.com/arjun-593)
-- Hardware Lead: [Giridhar AP](https://github.com/Giri-is-coding)
-- Design      Lead: [Hrishikesh Hiremath](https://github.com/Hrishikesh-H)
+- Autonomy Lead: [Nambiar Anand Sreenivasan](https://github.com/NambiarAnand)
+- Hardware Lead: [Vigneshwar](https://github.com/MilesMorales160)
+- Design   Lead: [Mihir Sahasrabuddhe]()
 
 ## Members
 
@@ -48,8 +48,7 @@ Our Companions include Self-Driving Cars, AGVs, UAVs, race cars, Robotics Arms!
 
 ### [Design Team](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/design/members)
 
-
-### [Volunteers](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/volunteers)
+%### [Volunteers](https://github.com/orgs/IVDC-Club-IIT-Indore/teams/volunteers)
 
 
 ## Alumni
